@@ -1,0 +1,20 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U3] Mod of Power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U3] Mod of Power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U3] Mod of Power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U3] Mod of Power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U3] Mod of Power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\D&C\[U3] Mod of Power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.pdb
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.exe.config
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.exe
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.pdb
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.exe
+C:\Users\DELL\Desktop\Assignments Algo\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.pdb
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.exe.config
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.exe
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\bin\Debug\ModOfPower.pdb
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.csproj.CoreCompileInputs.cache
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.exe
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.pdb
+D:\college\semester6\Algo\Assinments\Mod of power\[TEMPLATE]\ModOfPower\obj\Debug\ModOfPower.csproj.AssemblyReference.cache
